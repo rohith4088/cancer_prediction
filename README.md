@@ -18,3 +18,11 @@ You can install the required packages using the following command:
 
 ```bash
 pip install flask numpy pandas
+# Installation
+
+## Clone the repository:
+
+```bash
+git clone https://github.com/your-username/cancer-prediction-app.git
+cd cancer-prediction-app
+
